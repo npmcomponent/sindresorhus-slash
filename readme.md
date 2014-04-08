@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [sindresorhus/slash](http://github.com/sindresorhus/slash). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/sindresorhus-slash`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # slash [![Build Status](https://travis-ci.org/sindresorhus/slash.svg?branch=master)](https://travis-ci.org/sindresorhus/slash)
 
 > Convert Windows backslash paths to slash paths: `foo\\bar` ➔ `foo/bar`
